@@ -40,8 +40,8 @@
 
 Foto da tela do programa VisualG com a solução do Trabalho Prático do Módulo Extra Lógica de Programação e Algoritmos.
 
-![](C:\Users\SAMSUNG\AppData\Roaming\marktext\images\2022-12-07-22-45-10-image.png)
+![](https://cdn.discordapp.com/attachments/1045720339772088342/1050239618135629864/image.png)
 
 Foto da tela do programa VisualG com a solução do Desafio do Módulo Extra Lógica de Programação e Algoritmos
 
-![](C:\Users\SAMSUNG\AppData\Roaming\marktext\images\2022-12-07-23-12-55-image.png)
+![](https://cdn.discordapp.com/attachments/1045720339772088342/1050239509985493134/image.png)
